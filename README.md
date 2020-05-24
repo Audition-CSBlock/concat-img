@@ -5,9 +5,6 @@ pip install -r requirements.txt
 ```
 py ver = 3.7.7
 
-### Modify Horizontal & Vertical
-Modify horizontal.py or vertical.py and rename the filenames accordingly
-
 ### Running scripts
 ```
 python vertical.py
