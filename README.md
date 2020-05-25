@@ -1,4 +1,7 @@
 # Usage
+## With windows
+Head to the [releases](https://github.com/Audition-CSBlock/concat-img/releases/latest) page and download an exec suited for your OS.
+## With python
 ### Install dependencies & python version
 ```
 pip install -r requirements.txt
