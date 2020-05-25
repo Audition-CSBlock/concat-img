@@ -33,7 +33,7 @@ class Ui_GUI(object):
         self.horizontalmerge.setObjectName("horizontalmerge")
         self.output = QtWidgets.QLineEdit(GUI)
         self.output.setEnabled(True)
-        self.output.setGeometry(QtCore.QRect(100, 100, 400, 21))
+        self.output.setGeometry(QtCore.QRect(100, 100, 269, 21))
         self.output.setText("")
         self.output.setClearButtonEnabled(True)
         self.output.setObjectName("output")

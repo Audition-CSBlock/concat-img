@@ -1,5 +1,6 @@
+
 # Input folder
-### All images need to be the same width/height depending on if you use vertical or horizontal.
+### All images need to be the same width/height depending on if you use vertical or horizontal. After you put the images inside the folder, make sure to ***delete the readme.md*** file.
 
 vertical ex:
 ```py
